@@ -1,0 +1,11 @@
+.header-container {
+   background-image: url('img3.png');
+   padding-top: 1.5em;
+   padding-bottom: 1.5em;
+   text-align: center;
+}
+.header-container > p {
+  margin-left: 2em;
+  margin-right: 2em;
+  text-align: center;
+}
