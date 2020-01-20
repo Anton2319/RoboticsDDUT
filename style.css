@@ -1,3 +1,6 @@
+h3 {
+  text-align: center;
+}
 .header-container {
    background-image: url('img3.png');
    padding-top: 1.5em;
@@ -8,4 +11,8 @@
   margin-left: 2em;
   margin-right: 2em;
   text-align: center;
+}
+.card {
+  width: 21em;
+  display: inline-block;
 }
